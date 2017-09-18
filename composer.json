@@ -1,0 +1,12 @@
+{
+    "name": "tint/game",
+    "authors": [
+        {
+            "name": "nitikarn5990",
+            "email": "nitikarnboom2030@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^3.0"
+    }
+}

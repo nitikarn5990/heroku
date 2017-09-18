@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bramp.net	TRUE	/	FALSE	1999999999	__cfduid	d6a375b7fe7577f08343aa256f35594ba1503478204
+
